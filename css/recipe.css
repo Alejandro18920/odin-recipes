@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+    background-color: #f1f3f6;
+    box-sizing: 0;
+    border: 2px solid red;
+}
+
+body {
+    padding: 0px 16px;
+}
+
+img {
+    width: 250px;
+    height: auto;;
+}
+
+li {
+    color: #131212;
+}
